@@ -1,24 +1,14 @@
 git init
-
-iniciar
-
 git add
 mover arquivos
-
 git commit
-
 criar commit
 git add *
 git commit -m "commit inicial"
 
-nome do programa na frente = sempre, chamnado o programa
-
-criando repositório
 
 mkdir
-
 ls -a
-lista pastas ocultas
 
 git status
 
